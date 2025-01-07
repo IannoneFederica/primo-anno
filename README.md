@@ -1,1 +1,1 @@
-bfcuaheb
+Sono Iannone Federica, frequento il primo anno di nta e questa é la mia prima repository su github. Qui documenteró tutti i miei progressi e non,buona fortuna a me!
