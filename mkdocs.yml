@@ -51,13 +51,14 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - attr_list
+
   nav:
   - Home: index.md
   - Code Docs: 
     - Java: coding/my-first-java-file.md
   - About:
-  - About Me: about/about.md 
-  - MISTAKE: about/MISTAKE.md
+    - About Me: about/about.md 
+    - MISTAKE: about/MISTAKE.md
   - Tags: tags.md
   - Blog:
     - blog/index.md
