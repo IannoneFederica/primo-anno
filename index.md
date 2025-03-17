@@ -2,6 +2,13 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+## Navigation
+
+- [Code Docs](coding/my-first-java-file.md)
+- [About Me](about/about.md)
+- [Tags](tags.md)
+- [Blog](blog/index.md)
+
 ## Commands
 
 * mkdocs new [dir-name] - Create a new project.
